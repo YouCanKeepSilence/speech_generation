@@ -46,7 +46,7 @@ sklearn==0.0
 SoundFile==0.10.3.post1
 tensorboard==1.8.0
 tensorboardX==1.2
-tensorflow==1.8.0
+tensorflow==2.6.4
 termcolor==1.1.0
 threadpoolctl==2.1.0
 torch==1.5.0
